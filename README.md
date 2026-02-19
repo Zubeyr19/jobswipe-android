@@ -1,6 +1,6 @@
 # JobSwipe
 
-A Tinder-style job search app for Android. Swipe right on jobs you like to save them and open the application page.
+A swipe-style job search app for Android. Swipe right on jobs you like to save them and open the application page.
 
 ## Features
 
